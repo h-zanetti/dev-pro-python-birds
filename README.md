@@ -1,3 +1,3 @@
 # BootCampo DevPro - Python Birds
 
-Básico de python
+Repositório criado para o primeiro curso do Bootcamp DevPro.
